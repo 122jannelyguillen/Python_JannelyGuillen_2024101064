@@ -1,4 +1,4 @@
-# Curso_Python_JannelyGuillen_2024101064" >> README.md
+# Python_JannelyGuillen_2024101064" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
